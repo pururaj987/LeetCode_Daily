@@ -74,11 +74,10 @@ public:
             }
             if(nums[i] == nums[i+1]) {
                 i += 2;
-                count ++;
             } else {
                 i ++;
-                count ++;
             }
+            count ++;
         }
         if(missing == 0) {
             if(repeated == 1)
