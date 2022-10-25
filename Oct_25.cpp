@@ -24,9 +24,9 @@ public:
 };
 
 
-Approach 2 - Keep 4 pointers
-TC - O(N)
-SC - O(1)
+// Approach 2 - Keep 4 pointers
+// TC - O(N)
+// SC - O(1)
 
 class Solution {
 public:
